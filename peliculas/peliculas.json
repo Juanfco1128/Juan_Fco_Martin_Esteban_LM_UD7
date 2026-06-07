@@ -1,0 +1,233 @@
+{
+    "peliculas": {
+        "pelicula": [
+            {
+                "@id": "p1",
+                "titulo": "Inception",
+                "año": "2010",
+                "genero": "sci-fi",
+                "director": "Christopher Nolan",
+                "reparto": {
+                    "actor": [
+                        "Leonardo DiCaprio",
+                        "Joseph Gordon-Levitt",
+                        "Elliot Page"
+                    ]
+                },
+                "duracion": "148",
+                "puntuacion": "8.8"
+            },
+            {
+                "@id": "p2",
+                "titulo": "The Dark Knight",
+                "año": "2008",
+                "genero": "accion",
+                "director": "Christopher Nolan",
+                "reparto": {
+                    "actor": [
+                        "Christian Bale",
+                        "Heath Ledger",
+                        "Aaron Eckhart"
+                    ]
+                },
+                "duracion": "152",
+                "puntuacion": "9.0"
+            },
+            {
+                "@id": "p3",
+                "titulo": "Interstellar",
+                "año": "2014",
+                "genero": "sci-fi",
+                "director": "Christopher Nolan",
+                "reparto": {
+                    "actor": [
+                        "Matthew McConaughey",
+                        "Anne Hathaway"
+                    ]
+                },
+                "duracion": "169",
+                "puntuacion": "8.6"
+            },
+            {
+                "@id": "p4",
+                "titulo": "Avatar",
+                "año": "2009",
+                "genero": "sci-fi",
+                "director": "James Cameron",
+                "reparto": {
+                    "actor": [
+                        "Sam Worthington",
+                        "Zoe Saldana"
+                    ]
+                },
+                "duracion": "162",
+                "puntuacion": "7.8"
+            },
+            {
+                "@id": "p5",
+                "titulo": "Titanic",
+                "año": "1997",
+                "genero": "drama",
+                "director": "James Cameron",
+                "reparto": {
+                    "actor": [
+                        "Leonardo DiCaprio",
+                        "Kate Winslet"
+                    ]
+                },
+                "duracion": "195",
+                "puntuacion": "7.9"
+            },
+            {
+                "@id": "p6",
+                "titulo": "Forrest Gump",
+                "año": "1994",
+                "genero": "drama",
+                "director": "Robert Zemeckis",
+                "reparto": {
+                    "actor": [
+                        "Tom Hanks",
+                        "Robin Wright"
+                    ]
+                },
+                "duracion": "142",
+                "puntuacion": "8.8"
+            },
+            {
+                "@id": "p7",
+                "titulo": "The Matrix",
+                "año": "1999",
+                "genero": "sci-fi",
+                "director": "Lana Wachowski",
+                "reparto": {
+                    "actor": [
+                        "Keanu Reeves",
+                        "Laurence Fishburne"
+                    ]
+                },
+                "duracion": "136",
+                "puntuacion": "8.7"
+            },
+            {
+                "@id": "p8",
+                "titulo": "Pulp Fiction",
+                "año": "1994",
+                "genero": "crimen",
+                "director": "Quentin Tarantino",
+                "reparto": {
+                    "actor": [
+                        "John Travolta",
+                        "Uma Thurman"
+                    ]
+                },
+                "duracion": "154",
+                "puntuacion": "8.9"
+            },
+            {
+                "@id": "p9",
+                "titulo": "Gladiator",
+                "año": "2000",
+                "genero": "accion",
+                "director": "Ridley Scott",
+                "reparto": {
+                    "actor": [
+                        "Russell Crowe",
+                        "Joaquin Phoenix"
+                    ]
+                },
+                "duracion": "155",
+                "puntuacion": "8.5"
+            },
+            {
+                "@id": "p10",
+                "titulo": "Joker",
+                "año": "2019",
+                "genero": "drama",
+                "director": "Todd Phillips",
+                "reparto": {
+                    "actor": [
+                        "Joaquin Phoenix",
+                        "Robert De Niro"
+                    ]
+                },
+                "duracion": "122",
+                "puntuacion": "8.4"
+            },
+            {
+                "@id": "p11",
+                "titulo": "Spider-Man: No Way Home",
+                "año": "2021",
+                "genero": "accion",
+                "director": "Jon Watts",
+                "reparto": {
+                    "actor": [
+                        "Tom Holland",
+                        "Zendaya"
+                    ]
+                },
+                "duracion": "148",
+                "puntuacion": "8.2"
+            },
+            {
+                "@id": "p12",
+                "titulo": "Avengers: Endgame",
+                "año": "2019",
+                "genero": "accion",
+                "director": "Anthony Russo",
+                "reparto": {
+                    "actor": [
+                        "Robert Downey Jr.",
+                        "Chris Evans"
+                    ]
+                },
+                "duracion": "181",
+                "puntuacion": "8.4"
+            },
+            {
+                "@id": "p13",
+                "titulo": "Shutter Island",
+                "año": "2010",
+                "genero": "thriller",
+                "director": "Martin Scorsese",
+                "reparto": {
+                    "actor": [
+                        "Leonardo DiCaprio",
+                        "Mark Ruffalo"
+                    ]
+                },
+                "duracion": "138",
+                "puntuacion": "8.2"
+            },
+            {
+                "@id": "p14",
+                "titulo": "La La Land",
+                "año": "2016",
+                "genero": "musical",
+                "director": "Damien Chazelle",
+                "reparto": {
+                    "actor": [
+                        "Ryan Gosling",
+                        "Emma Stone"
+                    ]
+                },
+                "duracion": "128",
+                "puntuacion": "8.0"
+            },
+            {
+                "@id": "p15",
+                "titulo": "Inside Out",
+                "año": "2015",
+                "genero": "animacion",
+                "director": "Pete Docter",
+                "reparto": {
+                    "actor": [
+                        "Amy Poehler",
+                        "Phyllis Smith"
+                    ]
+                },
+                "duracion": "95",
+                "puntuacion": "8.1"
+            }
+        ]
+    }
+}

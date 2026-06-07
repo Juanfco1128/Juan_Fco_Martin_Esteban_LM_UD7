@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+
+    <pelicula id="p1">
+        <titulo>Inception</titulo>
+        <año>2010</año>
+        <genero>sci-fi</genero>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+            <actor>Elliot Page</actor>
+        </reparto>
+        <duracion>148</duracion>
+        <puntuacion>8.8</puntuacion>
+    </pelicula>
+
+    <pelicula id="p2">
+        <titulo>The Dark Knight</titulo>
+        <año>2008</año>
+        <genero>accion</genero>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>Christian Bale</actor>
+            <actor>Heath Ledger</actor>
+            <actor>Aaron Eckhart</actor>
+        </reparto>
+        <duracion>152</duracion>
+        <puntuacion>9.0</puntuacion>
+    </pelicula>
+
+    <pelicula id="p3">
+        <titulo>Interstellar</titulo>
+        <año>2014</año>
+        <genero>sci-fi</genero>
+        <director>Christopher Nolan</director>
+        <reparto>
+            <actor>Matthew McConaughey</actor>
+            <actor>Anne Hathaway</actor>
+        </reparto>
+        <duracion>169</duracion>
+        <puntuacion>8.6</puntuacion>
+    </pelicula>
+
+    <pelicula id="p4">
+        <titulo>Avatar</titulo>
+        <año>2009</año>
+        <genero>sci-fi</genero>
+        <director>James Cameron</director>
+        <reparto>
+            <actor>Sam Worthington</actor>
+            <actor>Zoe Saldana</actor>
+        </reparto>
+        <duracion>162</duracion>
+        <puntuacion>7.8</puntuacion>
+    </pelicula>
+
+    <pelicula id="p5">
+        <titulo>Titanic</titulo>
+        <año>1997</año>
+        <genero>drama</genero>
+        <director>James Cameron</director>
+        <reparto>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Kate Winslet</actor>
+        </reparto>
+        <duracion>195</duracion>
+        <puntuacion>7.9</puntuacion>
+    </pelicula>
+
+    <pelicula id="p6">
+        <titulo>Forrest Gump</titulo>
+        <año>1994</año>
+        <genero>drama</genero>
+        <director>Robert Zemeckis</director>
+        <reparto>
+            <actor>Tom Hanks</actor>
+            <actor>Robin Wright</actor>
+        </reparto>
+        <duracion>142</duracion>
+        <puntuacion>8.8</puntuacion>
+    </pelicula>
+
+    <pelicula id="p7">
+        <titulo>The Matrix</titulo>
+        <año>1999</año>
+        <genero>sci-fi</genero>
+        <director>Lana Wachowski</director>
+        <reparto>
+            <actor>Keanu Reeves</actor>
+            <actor>Laurence Fishburne</actor>
+        </reparto>
+        <duracion>136</duracion>
+        <puntuacion>8.7</puntuacion>
+    </pelicula>
+
+    <pelicula id="p8">
+        <titulo>Pulp Fiction</titulo>
+        <año>1994</año>
+        <genero>crimen</genero>
+        <director>Quentin Tarantino</director>
+        <reparto>
+            <actor>John Travolta</actor>
+            <actor>Uma Thurman</actor>
+        </reparto>
+        <duracion>154</duracion>
+        <puntuacion>8.9</puntuacion>
+    </pelicula>
+
+    <pelicula id="p9">
+        <titulo>Gladiator</titulo>
+        <año>2000</año>
+        <genero>accion</genero>
+        <director>Ridley Scott</director>
+        <reparto>
+            <actor>Russell Crowe</actor>
+            <actor>Joaquin Phoenix</actor>
+        </reparto>
+        <duracion>155</duracion>
+        <puntuacion>8.5</puntuacion>
+    </pelicula>
+
+    <pelicula id="p10">
+        <titulo>Joker</titulo>
+        <año>2019</año>
+        <genero>drama</genero>
+        <director>Todd Phillips</director>
+        <reparto>
+            <actor>Joaquin Phoenix</actor>
+            <actor>Robert De Niro</actor>
+        </reparto>
+        <duracion>122</duracion>
+        <puntuacion>8.4</puntuacion>
+    </pelicula>
+
+    <pelicula id="p11">
+        <titulo>Spider-Man: No Way Home</titulo>
+        <año>2021</año>
+        <genero>accion</genero>
+        <director>Jon Watts</director>
+        <reparto>
+            <actor>Tom Holland</actor>
+            <actor>Zendaya</actor>
+        </reparto>
+        <duracion>148</duracion>
+        <puntuacion>8.2</puntuacion>
+    </pelicula>
+
+    <pelicula id="p12">
+        <titulo>Avengers: Endgame</titulo>
+        <año>2019</año>
+        <genero>accion</genero>
+        <director>Anthony Russo</director>
+        <reparto>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Chris Evans</actor>
+        </reparto>
+        <duracion>181</duracion>
+        <puntuacion>8.4</puntuacion>
+    </pelicula>
+
+    <pelicula id="p13">
+        <titulo>Shutter Island</titulo>
+        <año>2010</año>
+        <genero>thriller</genero>
+        <director>Martin Scorsese</director>
+        <reparto>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Mark Ruffalo</actor>
+        </reparto>
+        <duracion>138</duracion>
+        <puntuacion>8.2</puntuacion>
+    </pelicula>
+
+    <pelicula id="p14">
+        <titulo>La La Land</titulo>
+        <año>2016</año>
+        <genero>musical</genero>
+        <director>Damien Chazelle</director>
+        <reparto>
+            <actor>Ryan Gosling</actor>
+            <actor>Emma Stone</actor>
+        </reparto>
+        <duracion>128</duracion>
+        <puntuacion>8.0</puntuacion>
+    </pelicula>
+
+    <pelicula id="p15">
+        <titulo>Inside Out</titulo>
+        <año>2015</año>
+        <genero>animacion</genero>
+        <director>Pete Docter</director>
+        <reparto>
+            <actor>Amy Poehler</actor>
+            <actor>Phyllis Smith</actor>
+        </reparto>
+        <duracion>95</duracion>
+        <puntuacion>8.1</puntuacion>
+    </pelicula>
+
+</peliculas>

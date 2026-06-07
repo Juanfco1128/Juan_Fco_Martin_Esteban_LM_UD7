@@ -1,0 +1,86 @@
+{
+    "peliculas": {
+        "pelicula": [
+            {
+                "titulo": "Inception",
+                "año": "2010",
+                "genero": "Ciencia ficción",
+                "director": "Christopher Nolan",
+                "duracion": "148",
+                "puntuacion": "8.8"
+            },
+            {
+                "titulo": "The Matrix",
+                "año": "1999",
+                "genero": "Acción / Sci-Fi",
+                "director": "Lana Wachowski, Lilly Wachowski",
+                "duracion": "136",
+                "puntuacion": "8.7"
+            },
+            {
+                "titulo": "Interstellar",
+                "año": "2014",
+                "genero": "Ciencia ficción",
+                "director": "Christopher Nolan",
+                "duracion": "169",
+                "puntuacion": "8.6"
+            },
+            {
+                "titulo": "Titanic",
+                "año": "1997",
+                "genero": "Romance / Drama",
+                "director": "James Cameron",
+                "duracion": "195",
+                "puntuacion": "7.9"
+            },
+            {
+                "titulo": "Gladiator",
+                "año": "2000",
+                "genero": "Acción / Histórico",
+                "director": "Ridley Scott",
+                "duracion": "155",
+                "puntuacion": "8.5"
+            },
+            {
+                "titulo": "Avatar",
+                "año": "2009",
+                "genero": "Ciencia ficción",
+                "director": "James Cameron",
+                "duracion": "162",
+                "puntuacion": "7.8"
+            },
+            {
+                "titulo": "The Dark Knight",
+                "año": "2008",
+                "genero": "Acción",
+                "director": "Christopher Nolan",
+                "duracion": "152",
+                "puntuacion": "9.0"
+            },
+            {
+                "titulo": "Forrest Gump",
+                "año": "1994",
+                "genero": "Drama",
+                "director": "Robert Zemeckis",
+                "duracion": "142",
+                "puntuacion": "8.8"
+            },
+            {
+                "titulo": "Pulp Fiction",
+                "año": "1994",
+                "genero": "Crimen",
+                "director": "Quentin Tarantino",
+                "duracion": "154",
+                "puntuacion": "8.9"
+            },
+            {
+                "titulo": "The Avengers",
+                "año": "2012",
+                "genero": "Acción / Superhéroes",
+                "director": "Joss Whedon",
+                "duracion": "143",
+                "puntuacion": "8.0"
+            }
+        ]
+    }
+}
